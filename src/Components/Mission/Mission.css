@@ -1,0 +1,39 @@
+.banq-imq{
+    margin-top: 35px;
+    margin-bottom: 10px;
+    width: 400px;
+    height: 350px;
+}
+.banq-imq img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.banq-imq:hover{
+    box-shadow: 0 0 40px gray;
+}
+
+.bot{
+    margin-bottom: 50px;
+}
+
+.view-gall{
+    display: flex;
+    justify-content: end;
+    color: black !important;
+}
+.view-gall a{
+    color: black !important;
+    font-size: medium;
+    border-radius: 13px;
+    padding: 7px;
+    background: #D4A762;
+    border: 2px solid #D4A762;
+    list-style: none;
+    text-decoration: none;
+}
+.view-gall a:hover{
+    color:red !important;
+   
+}
