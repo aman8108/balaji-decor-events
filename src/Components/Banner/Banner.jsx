@@ -2,6 +2,7 @@ import React from 'react';
 import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
 import './banner.css';
+import { Fade, Slide } from "react-awesome-reveal";
 
 function Banner() {
   const banners = [
@@ -49,16 +50,16 @@ function Banner() {
             style={{ backgroundImage: `url(${banner.image})` }}
           >
             <div className="banner-content">
-           
+            <Fade direction='right'>
               <h1>{banner.title}</h1>
-              
-              
+              </Fade>
+              <Fade direction='left'>
               <p>{banner.description}</p>
-              
+              </Fade>
 
-              
+              <Fade direction='zoom' delay={1000}>
               <a href="#services" className="banner-button">Explore More</a>
-              
+              </Fade>
             </div>
           </div>
         ))}
