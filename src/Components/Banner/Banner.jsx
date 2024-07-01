@@ -50,16 +50,16 @@ function Banner() {
             style={{ backgroundImage: `url(${banner.image})` }}
           >
             <div className="banner-content">
-            <Fade direction='right'>
+           
               <h1>{banner.title}</h1>
-              </Fade>
-              <Fade direction='left'>
+              
+              
               <p>{banner.description}</p>
-              </Fade>
+              
 
-              <Fade direction='zoom' delay={1000}>
+              
               <a href="#services" className="banner-button">Explore More</a>
-              </Fade>
+              
             </div>
           </div>
         ))}
