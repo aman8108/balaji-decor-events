@@ -3,6 +3,7 @@ import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
 import './banner.css';
 import { Fade, Slide } from "react-awesome-reveal";
+import { Link } from 'react-router-dom';
 
 function Banner() {
   const banners = [
@@ -28,7 +29,7 @@ function Banner() {
     },
     {
       image: 'https://content.jdmagicbox.com/comp/mumbai/j1/022pxx22.xx22.210624161023.l9j1/catalogue/elite-banquet-andheri-west-mumbai-banquet-halls-del80qo0y8.jpg?clr=',
-      title: 'Banquite halll',
+      title: 'Banquet  halll',
       description: 'Elegant banquet hall for unforgettable celebrations and sophisticated gatherings.'
     }
   ];
@@ -58,7 +59,7 @@ function Banner() {
               </Fade>
 
               <Fade direction='zoom' delay={1000}>
-              <a href="#services" className="banner-button">Explore More</a>
+              <Link to="/banquethall" className="banner-button">Explore More</Link>
               </Fade>
             </div>
           </div>

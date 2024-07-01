@@ -25,7 +25,7 @@ function Gallery() {
     <>
     <div
   className="breadcrumb-area breadcrumb-padding bg-img"
-  style={{ backgroundImage: "url(https://img.freepik.com/free-vector/vector-hall-banquet-wedding-interior-ballroom-with-tables-chairs-feast-celebration_1441-2354.jpg)" }}
+  style={{ backgroundImage: "url(https://png.pngtree.com/thumb_back/fh260/background/20190220/ourmid/pngtree-red-festive-teacher-appreciation-banquet-simple-image_7329.jpg)" }}
 >
   <div className="container">
     <div className="breadcrumb-content text-center">

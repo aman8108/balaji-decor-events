@@ -7,6 +7,18 @@ function Mission() {
     <>
       <section>
         <div className="container">
+        <div className="row">
+      <div className="col-lg-12">
+        <div
+          className="cat_section_headings wow zoom"
+          style={{ visibility: "visible", animationName: "zoom" }}
+        >
+          {/* <span className="cat_subheading">Who we are</span> */}
+          <h4>Our Gallery</h4>
+          <div className="cat_border" />
+        </div>
+      </div>
+    </div>
         <h5 className='view-gall'> <a href='/gallery-page'>View more</a></h5>
           <div className="row">
             <div className="col-lg-4">

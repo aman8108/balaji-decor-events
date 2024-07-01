@@ -21,18 +21,12 @@ function Event() {
       <div className="row">
         <div className="col-md-6">
           <div className="wedd-banner-content">
-            <span>Anniversary Planner</span>
+            <span>{EventsF.heading}</span>
             <h1>
-              Creating Timeless Memories: Top Anniversary Event Planners in
-              Mumbai
+              {EventsF. detaulsh1}
             </h1>
             <p>
-              Create unforgettable moments with the expertise of our top
-              anniversary event planners in Mumbai. From meticulous planning to
-              personalized touches, we ensure your anniversary celebration
-              becomes a timeless memory you'll cherish forever. Trust us to
-              curate a truly special and meaningful experience for you and your
-              loved one.
+              {EventsF.detailsTwo}
             </p>
           </div>
         </div>
@@ -48,26 +42,12 @@ function Event() {
         <div className="inner-div">
           <div className="heading-style">
             <h2>
-              <span>Plan the ideal anniversary with Trupp and Fest- </span>The
-              best anniversary event planners in Mumbai
+             {EventsF.detailsTwo}
             </h2>
           </div>
           <p>
-            The anniversary celebration is an excellent way to commemorate a
-            significant occasion. Nothing compares to a glitzy and lavish
-            anniversary celebration. Without a doubt, the finest gift one can
-            give on a special occasion is not something tangible, but rather
-            memories of happy times spent together. They are important not only
-            for couples but also for businesses, especially since only half of
-            small businesses survive the first five years, according to the
-            Small Business Administration. Businesses use such events to express
-            gratitude to their consumers, staff, and investors. Throwing an
-            anniversary party is a wonderful way to recognize the time spent
-            together, whether it is a couple’s anniversary or a company’s
-            anniversary. Turpp and Fest is considered to be one of the best
-            anniversary planners in Mumbai, our event planners are here to make
-            your anniversary a day to remember, with skilled event design,
-            fantastic settings, and great catering.
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa laudantium dolor asperiores quos iusto, eum optio! Reiciendis tenetur omnis maxime unde maiores vero alias nesciunt, sunt cupiditate, quos expedita! Aliquam nesciunt dolorum libero laborum rerum laudantium quibusdam nobis, eveniet ipsum quia. Iste aut expedita quam ipsa? Laborum obcaecati expedita, iusto asperiores sint architecto ratione molestiae tenetur? Eum incidunt voluptate accusantium dolores quo excepturi assumenda laboriosam.
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa laudantium dolor asperiores quos iusto, eum optio! Reiciendis tenetur omnis maxime unde maiores vero alias nesciunt, sunt cupiditate, quos expedita! Aliquam nesciunt dolorum libero laborum rerum laudantium quibusdam nobis, eveniet ipsum quia. Iste aut expedita quam ipsa? Laborum obcaecati expedita, iusto asperiores sint architecto ratione molestiae tenetur? Eum incidunt voluptate accusantium dolores quo excepturi assumenda laboriosam.
           </p>
         </div>
       </div>
@@ -83,7 +63,7 @@ function Event() {
         <div className="col-md-6">
           <figure className="anniversary-fig">
             <img
-              src="https://www.truppandfest.com/assets/img/anniversary-service/Collage.jpg"
+              src= "https://dreamzweddingplanner.com/img/phone2.jpg"
               alt="Trupp & Fest Anniversary Image"
             />
           </figure>
@@ -97,23 +77,10 @@ function Event() {
               </h2>
             </div>
             <p>
-              Throwing an anniversary party is a wonderful way to recognize a
-              couple's time spent together, whether it is the first anniversary
-              or the fiftieth anniversary. Wedding Anniversary parties not only
-              assist the couple cherish their marriage but also provide loved
-              ones with an opportunity to tell the couple how much their union
-              has inspired those around them. One of the most momentous
-              anniversaries for a couple is their 25th wedding anniversary and
-              50th wedding anniversary, which is why we should celebrate it
-              wholeheartedly and make it grand it's always a good idea to hire a
-              good wedding anniversary organizer.
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam molestiae sequi nisi cupiditate autem beatae expedita, veniam doloribus distinctio! Sunt sed, atque facere recusandae voluptas placeat quibusdam non doloremque facilis praesentium ducimus, enim, dolorum eum dicta ut ipsum asperiores molestiae. Dolore debitis recusandae minus quibusdam magni ullam cupiditate impedit excepturi eos porro. Consectetur, magni. Exercitationem.
             </p>
             <p>
-              We, at Trupp and Fest have ideas to turn your wedding anniversary
-              into a Gala event to remember for years to come. We realize you
-              want your event to be a dream come true. As a result, as a team,
-              we will leave no stone unturned in order to provide you with
-              nothing but the best.
+             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis, repellendus. Ex aut ipsa obcaecati veritatis voluptate quasi nostrum mollitia exercitationem autem voluptas tenetur odio optio nisi aspernatur consequatur laboriosam, deserunt nihil facilis. Corporis, enim unde.
             </p>
           </div>
         </div>
@@ -123,14 +90,7 @@ function Event() {
 
 
   <section className="why-are-we-section wedding-sec">
-  <div className="display-phone display-phone-event-decor">
-    <figure>
-      <img
-        src="assets/img/event-decoration/house_warming_.jpg"
-        alt="Trupp & Fest House Warming Image"
-      />
-    </figure>
-  </div>
+
   <div className="row d-flex">
     <div className="col-md-6">
       <div className="why-consider-infoo">
