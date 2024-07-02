@@ -27,6 +27,7 @@
   }
   
   .banner-content {
+    padding-top: 40px !important;
     position: relative;
     z-index: 2; /* To ensure the content is above the overlay */
     text-align: center;
@@ -101,4 +102,17 @@
     bottom: 0;
     margin-top: 0;
     padding: 78px;
+}
+
+@media (max-width: 480px) {
+  .banner-slide {
+      height: 60vh;
+  }}
+
+@media (max-width: 480px) {
+  .event-img img {
+    width: 100% !important;
+    margin-left: -8px;
+    height: 100% !important;
+}
 }

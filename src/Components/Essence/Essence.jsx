@@ -55,7 +55,7 @@ function Essence() {
         <SwiperSlide>
         <div
               className="owl-item cloned"
-              style={{ width: 400, marginRight: 0 }}
+              style={{  marginRight: 0 }}
             >
               <div className="col-md-12 co-lg-4">
                 <div className="single-event text-center">
@@ -75,7 +75,7 @@ function Essence() {
         <SwiperSlide>
         <div
               className="owl-item cloned"
-              style={{ width: 400, marginRight: 0 }}
+              style={{  marginRight: 0 }}
             >
               <div className="col-md-12 co-lg-4">
                 <div className="single-event text-center">
@@ -95,7 +95,7 @@ function Essence() {
         <SwiperSlide>
         <div
               className="owl-item cloned"
-              style={{ width: 400, marginRight: 0 }}
+              style={{  marginRight: 0 }}
             >
               <div className="col-md-12 co-lg-4">
                 <div className="single-event text-center">
@@ -115,7 +115,7 @@ function Essence() {
         <SwiperSlide>
         <div
               className="owl-item cloned"
-              style={{ width: 400, marginRight: 0 }}
+              style={{  marginRight: 0 }}
             >
               <div className="col-md-12 co-lg-4">
                 <div className="single-event text-center">
@@ -136,7 +136,7 @@ function Essence() {
       <div className="col-lg-4">
       <div
               className="owl-item cloned"
-              style={{ width: 400, marginRight: 0 }}
+              style={{  marginRight: 0 }}
             >
               <div className="col-md-12 co-lg-4">
                 <div className="single-event text-center">
@@ -159,7 +159,7 @@ function Essence() {
       <div className="col-lg-4">
       <div
               className="owl-item cloned"
-              style={{ width: 400, marginRight: 0 }}
+              style={{   }}
             >
               <div className="col-md-12 co-lg-4">
                 <div className="single-event text-center">
@@ -182,7 +182,7 @@ function Essence() {
       <div className="col-lg-4">
       <div
               className="owl-item cloned"
-              style={{ width: 400, marginRight: 0 }}
+              style={{  marginRight: 0 }}
             >
               <div className="col-md-12 co-lg-4">
                 <div className="single-event text-center">
@@ -212,7 +212,7 @@ function Essence() {
           <div className="col-lg-6">
           <div
               className="owl-item cloned"
-              style={{ width: 400, marginRight: 0 }}
+              style={{  marginRight: 0 }}
             >
               <div className="col-md-12 co-lg-4">
                 <div className="single-event text-center">
@@ -235,7 +235,7 @@ function Essence() {
           <div className="col-lg-6">
           <div
               className="owl-item cloned"
-              style={{ width: 400, marginRight: 0 }}
+              style={{  marginRight: 0 }}
             >
               <div className="col-md-12 co-lg-4">
                 <div className="single-event text-center">

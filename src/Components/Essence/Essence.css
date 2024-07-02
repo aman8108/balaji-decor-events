@@ -1135,8 +1135,19 @@ body {
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    width: 100%;
 }
 
+/* @media (max-width: 480px) {
+    .event-area {
+        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 2.5)), 
+                    url("https://png.pngtree.com/thumb_back/fh260/background/20191014/pngtree-stage-red-color-background-image_319347.jpg");
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        width: 116%;
+    }
+} */
 .event-img img{
     border-radius: 5px;
 }
@@ -1174,6 +1185,11 @@ display: flex;justify-content:center; align-items: center;
 .collab-c{
     color: #808080;
     font-family: "Roboto Condensed", sans-serif;
+}
+
+.owl-item .cloned{
+    width: 400px;
+    margin-right: 0;
 }
 
 
