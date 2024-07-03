@@ -3,6 +3,7 @@ import Testimoniall from '../Components/Testimoniall/Testimoniall'
 import Counter from '../Components/Counter/Counter'
 import Footer from '../Components/Footer/Footer'
 import { Link } from 'react-router-dom'
+import History from '../Components/History/History'
 
 function About() {
   return (
@@ -29,6 +30,9 @@ function About() {
     </div>
   </div>
 </div>
+  
+  <History/>
+
       <section className="cat_about_section">
   <div className="container">
     <div className="row">
@@ -38,7 +42,7 @@ function About() {
           style={{ visibility: "visible", animationName: "zoom" }}
         >
           <span className="cat_subheading">Who we are</span>
-          <h4>About Our Catering Services</h4>
+          <h4>About Our Banquet Service & Catering Services</h4>
           <div className="cat_border" />
         </div>
       </div>

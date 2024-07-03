@@ -1,0 +1,119 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Italianno&family=MonteCarlo&family=Montserrat&family=Poppins:ital@1&family=Satisfy&display=swap');
+
+/*check in check out div*/
+.clickable { cursor: pointer; }
+.booking-bar{
+	margin-top: -87px;
+	margin-left: 200px;
+	margin-bottom: 60px;
+}
+
+
+/*---------------------
+  Intro section
+-----------------------*/
+
+.intro-text {
+	/* border: 15px solid #F9AD81; */
+	border: 15px solid  #cd5f2d;
+	padding-left: 50px;
+	padding-top: 58px;
+	padding-bottom: 57px;
+	padding-right: 45px;
+}
+.primaryy-btnn {
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 400;
+    height: 55px;
+    padding: 10px;
+    margin-top: 10px;
+    color: #ffffff;
+    border-radius: 6px;
+    background: #d3af4a;
+    letter-spacing: 0.5px;
+}
+
+.intro-right {
+	padding-top: 168px;
+}
+
+.intro-right p {
+	margin-bottom: 31px;
+}
+@media(max-width:1192px)
+{
+	.intro-right {
+		padding-top: 215px;
+	}
+}
+
+@media(max-width:990px)
+{
+	.intro-right {
+		padding-top: 18px;
+	}
+}
+@media(max-width:500px)
+{
+	.intro-right {
+		padding-top: 18px;
+	}
+}
+
+
+
+.section-title span {
+	color:#d3af4a;
+	display: block;
+	font-size: 12px;
+	letter-spacing: 4px;
+	text-transform: uppercase;
+	font-weight: 600;
+}
+
+.section-title h2 {
+	color: #000;
+	font-size: 48px;
+	line-height: 48px;
+	font-weight: 600;
+	margin-top: 14px;
+	margin-bottom: 40px;
+    font-family: "Poppins", sans-serif;
+
+}
+
+button a{
+	color: white !important;
+	list-style: none;
+	text-decoration: none;
+	
+}
+
+.set-bg {
+	
+	/* background-position: center center; */
+	background: linear-gradient(to right, rgba(28, 28, 28, 0.5), rgba(35, 35, 35, 0.6)), url("https://www.raj-resort.in/images/slide02.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-position:center center;
+}
+
+.spad {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+@media(max-width:500px)
+{
+	.spad {
+		padding-top: 20px;
+		padding-bottom: 100px;
+	}
+	
+	
+}
+/*---------------------
+  Facilities Section
+-----------------------*/
+
