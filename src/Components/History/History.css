@@ -1,13 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Italianno&family=MonteCarlo&family=Montserrat&family=Poppins:ital@1&family=Satisfy&display=swap');
 
-/*check in check out div*/
-.clickable { cursor: pointer; }
-.booking-bar{
-	margin-top: -87px;
-	margin-left: 200px;
-	margin-bottom: 60px;
-}
 
 
 /*---------------------
@@ -29,7 +22,7 @@
     height: 55px;
     padding: 10px;
     margin-top: 10px;
-    color: #ffffff;
+    color: black;
     border-radius: 6px;
     background: #d3af4a;
     letter-spacing: 0.5px;
@@ -85,7 +78,7 @@
 }
 
 button a{
-	color: white !important;
+	color: black !important;
 	list-style: none;
 	text-decoration: none;
 	
